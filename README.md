@@ -59,7 +59,7 @@ can call following Endpoints by using POSTMAN
 ```
 ### 10.To update product in database, use following url with `PUT` request type in postman
 ```
-	http://localhost:8080/update/<id>
+	http://localhost:8088/update/<id>
 ```
 ### set request body as raw with JSON payload
 
@@ -74,7 +74,7 @@ can call following Endpoints by using POSTMAN
 ```
 ### 11.To delete a particular Product from database, use following url with `DELETE` request type in postman
 ```
-  http://localhost:8080/delete/<id>
+  http://localhost:8088/delete/<id>
 ```
 ###  hit the URL in your web browser and see the Swagger API functionalities.
 ```
