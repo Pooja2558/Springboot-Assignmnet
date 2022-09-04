@@ -8,7 +8,7 @@ getProducts method will calculate the final price of each product based on disco
 
 ### 1. You can clone it from github by running following command
 ```
-$ git clone https://github.com/Pooja2558/Assignment.git
+$ git clone https://github.com/Pooja2558/Springboot-Assignmnet.git
 ```
 ### 2. Import project into eclipse
 
